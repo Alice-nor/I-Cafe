@@ -1,0 +1,19 @@
+#index{
+    text-align: center;
+    color: white;
+    background-image: url(imgs/index.jpg);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    text-shadow: black 0px 0px 6px;
+    background-attachment: fixed;
+}
+
+#frontComment{
+    background-image:linear-gradient(to right,rgba(26,33,43,0),rgba(26,33,43,1));
+    background-image: url(imgs/pic1.jpg);
+    background-position: top left, left center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}

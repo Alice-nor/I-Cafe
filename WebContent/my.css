@@ -1,0 +1,10 @@
+#index{
+    text-align: center;
+    color: white;
+    background-image: url(imgs/index.jpg);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    text-shadow: black 0px 0px 4px;
+    background-attachment: fixed;
+}

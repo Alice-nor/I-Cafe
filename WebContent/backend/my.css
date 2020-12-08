@@ -1,0 +1,17 @@
+.card{
+    background-color: rgba(0, 0, 0, .5);
+  }
+#loginBody{
+    background: url(backend/images/bg_admin.jpg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    background-position: center center;
+  } 
+#loginContainer{
+    margin-top: 100px;
+  }
+  
+.comment-frame {
+    border-width:2px;  
+    border-style:double;
+  }
