@@ -2,9 +2,9 @@
     background-color: rgba(0, 0, 0, .5);
   }
 #loginBody{
-    background: url(backend/images/bg_admin.jpg);
+    background: url(backend/images/bg.jpg);
     background-repeat: no-repeat;
-    background-size: 100%;
+    background-size: 140%;
     background-position: center center;
   } 
 #loginContainer{
